@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    /* background-color: #dfdfe7; */
+}
+
+.my-logo img{
+    width: 78px;
+    height: 35px;
+}
+
+.dropdown-menu li a:hover{
+    color: aquamarine;
+}
+
+.navbar-nav li a:hover{
+    color: aquamarine;
+}
+
+.hero-section{
+    background-image: url('./Img/bk-image.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.hero-title{
+    margin-top: 150px;
+}
+
+.banner-section{
+    width: 100vw;
+    height: 95vh;
+}
+
+.container img{
+    height: 300px; 
+}
